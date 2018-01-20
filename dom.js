@@ -1,3 +1,5 @@
+// 1. How would you access the array that is the value of the 'children' key of the FIRST element in the 'document' array?
+
 var document = [
   {
     tagName: "div",
